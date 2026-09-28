@@ -5,7 +5,7 @@
 **Disciplina:** Sistemas Operacionais  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
 **Semestre:** 4º Semestre / 2026.2  
-**Atividade:** Roteiro de Laboratório 02 (N1)
+**Atividade:** Roteiro de Laboratório 02
 
 ## 2. Objetivo
 
